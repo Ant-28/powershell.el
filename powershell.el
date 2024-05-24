@@ -82,7 +82,6 @@
 ;;;###autoload
 (add-to-list 'auto-mode-alist '("\\.ps[dm]?1\\'" . powershell-mode))
 
-
 ;; User Variables
 
 (defgroup powershell nil
